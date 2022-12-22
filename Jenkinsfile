@@ -20,7 +20,7 @@ pipeline{
                 
                 script{
                     
-                    sh 'echo "UNIT testing"'
+                    echo "UNIT testing"
                 }
             }
         }
