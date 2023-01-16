@@ -1,62 +1,40 @@
 pipeline {
-  agent any
-  stages {
-    stage('Git Checkout2') {
-      steps {
-        script {
-          git branch: 'main', url: 'https://github.com/vvadmin2018/demo3.git'
-        }
+    agent any
 
-      }
+    tools {
+        // Install the Maven version configured as "M3" and add it to the path.
+        maven "M3"
+        git "Default"
     }
 
-    stage('UNIT testing') {
-      steps {
-        script {
-          echo "UNIT testing"
+    stages {
+        stage('Print Env') {
+            steps {
+                bat "set"
+            }
         }
+            
+        stage('Build') {
+            steps {
+                // Get some code from a GitHub repository
+                git branch: 'main', credentialsId: 'e9f00908-5174-4fa1-82cf-9ca0e3a8c845', url: 'git@github.com:vvadmin2018/demo3.git'
+                //git 'https://github.com/jglick/simple-maven-project-with-tests.git'
 
-      }
-    }
+                // Run Maven on a Unix agent.
+                //sh "mvn -Dmaven.test.failure.ignore=true clean package"
 
-    stage('Integration testing') {
-      steps {
-        script {
-          sh 'mvn verify -DskipUnitTests'
+                // To run Maven on a Windows agent, use
+                bat "mvn -Dmaven.test.failure.ignore=true clean package"
+            }
+
+            post {
+                // If Maven was able to run the tests, even if some of the test
+                // failed, record the test results and archive the jar file.
+                success {
+                    junit '**/target/surefire-reports/TEST-*.xml'
+                    archiveArtifacts 'target/*.jar'
+                }
+            }
         }
-
-      }
     }
-
-    stage('Maven build') {
-      steps {
-        script {
-          sh 'mvn clean install'
-        }
-
-      }
-    }
-
-    stage('Static code analysis') {
-      steps {
-        script {
-          withSonarQubeEnv(credentialsId: 'sonar-api') {
-
-            sh 'mvn clean package sonar:sonar'
-          }
-        }
-
-      }
-    }
-
-    stage('Quality Gate Status3') {
-      steps {
-        script {
-          waitForQualityGate abortPipeline: false, credentialsId: 'sonar-api'
-        }
-
-      }
-    }
-
-  }
 }
