@@ -13,7 +13,7 @@ pipeline {
                 steps {
                     bat "set"
                 }
-
+            }
              stage('Docker try') {
                 steps {
                     bat "docker info"
