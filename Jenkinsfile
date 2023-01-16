@@ -8,6 +8,7 @@ pipeline {
     }
 
     stages {
+      stage("run tests") {
         parallel {
             stage('Print Env') {
                 steps {
@@ -21,6 +22,7 @@ pipeline {
 
             }
         }
+      }
             
         stage('Build') {
             steps {
