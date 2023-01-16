@@ -17,7 +17,11 @@ pipeline {
             }
              stage('Docker try') {
                 steps {
-                    bat "docker info"
+                    script {
+                      bat "docker info"
+                      bat "docker ps"
+                      bat "docker run busybox"  
+                    }
               }
 
             }
