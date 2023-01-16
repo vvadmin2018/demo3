@@ -1,0 +1,284 @@
+[33mcommit 2bdcf9962722155e1b57f7c3ba1fd114a13a6b03[m[33m ([m[1;36mHEAD -> [m[1;32mvodchiv/branch2[m[33m, [m[1;31morigin/vodchiv/branch2[m[33m)[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Fri Jan 13 11:18:32 2023 +0300
+
+    commit 2
+
+[33mcommit 62861bd5794daba1ae0e4d39c65171c1317c6c30[m[33m ([m[1;31morigin/vodchiv/testbranch[m[33m, [m[1;32mvodchiv/testbranch[m[33m)[m
+Merge: 98556b1 5190231
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Fri Jan 13 11:04:33 2023 +0300
+
+    Merge branch 'main' into vodchiv/testbranch
+
+[33mcommit 98556b19cc0c9f788c6ce52c858a98394f857ce0[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Fri Jan 13 04:13:46 2023 +0300
+
+    labels change
+
+[33mcommit 51902318a1452fd4a7ea3517ad44a2d7d3a48025[m[33m ([m[1;32mmain[m[33m)[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Fri Jan 13 02:38:54 2023 +0300
+
+    Update README.md
+
+[33mcommit 12458f0e18b0b113f5adfb89278a4349d81cd9ce[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 17:49:45 2023 +0300
+
+    main
+
+[33mcommit 0f6c22eccce4a3e545681adcf3015456ddde8c70[m
+Merge: 123091a 7e48f85
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 17:47:35 2023 +0300
+
+    Merge pull request #1 from vvadmin2018/vodchiv/testbranch
+    
+    Vodchiv/testbranch
+
+[33mcommit 7e48f85376bc376c2966bc8bf58341d12db1e42a[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 17:40:12 2023 +0300
+
+    test branch
+
+[33mcommit 91e16204b382dd7b633cf8945d8315f3b19db930[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 17:39:02 2023 +0300
+
+    manaul.yaml
+    test branch
+
+[33mcommit 123091ad25383e64d0c0f2e468e135dbde87dd8a[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 17:09:59 2023 +0300
+
+    manaul.yaml
+
+[33mcommit 4bfcff1d09f93d52048297d93e1e87c9129c7b81[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Jan 12 16:59:04 2023 +0300
+
+    testWorkflow
+
+[33mcommit 4532333998752b8564fa97e8e84b17f9abd420e7[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Dec 22 23:54:44 2022 +0300
+
+    Update Jenkinsfile
+
+[33mcommit 3db80e84ec299064803387328b9d01be5494156c[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Dec 22 23:51:55 2022 +0300
+
+    test2
+
+[33mcommit 3753c95e8dc5d5476b65fcb826a329cf8ca00f98[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Dec 22 23:34:09 2022 +0300
+
+    test commmit
+
+[33mcommit 45e64f8b9af48cdb097be061a959325c0318c0ed[m
+Author: vvadmin2018 <121259377+vvadmin2018@users.noreply.github.com>
+Date:   Thu Dec 22 23:21:44 2022 +0300
+
+    Update Jenkinsfile
+
+[33mcommit d0502a806255de968d9e81eee495de2b6f25dad2[m
+Author: Vikash Kumar <35370115+vikash-kumar01@users.noreply.github.com>
+Date:   Fri Dec 16 12:35:12 2022 +0530
+
+    Create main.yml
+
+[33mcommit 8dafaa02a2b9a70efe30618713b06fb029142556[m
+Author: Vikash Kumar <35370115+vikash-kumar01@users.noreply.github.com>
+Date:   Fri Dec 16 12:29:50 2022 +0530
+
+    Update SpringController.java
+
+[33mcommit 0023e82b4e47b28b790a117f6ed2fb477258f1a1[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Nov 5 11:15:36 2022 +0530
+
+    first commit
+
+[33mcommit c1300856c72b4243df80b61846caa5a7c69ed56b[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 21:30:04 2022 +0530
+
+    eks deployments added
+
+[33mcommit a8dc5a12a7f6fbc4e9ed6af52a0d52dc89f23534[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 21:16:30 2022 +0530
+
+    eks deployments added
+
+[33mcommit 1f106d1d696edf1e3c8bd5cecbed5db0c4dafec6[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 21:12:38 2022 +0530
+
+    eks deployments added
+
+[33mcommit 42552abe9c4e956e1c4935521e498d4dd6dcd0f9[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 21:04:37 2022 +0530
+
+    eks deployments added
+
+[33mcommit 27db88ebbc25acceac067f9b47539f605837fa5c[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 21:02:41 2022 +0530
+
+    eks deployments added
+
+[33mcommit bb68d357553f6c9f317a41e0005365050a5dbea6[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 20:46:44 2022 +0530
+
+    eks deployments added
+
+[33mcommit 679f06b3141341deeb397349d98edfae1fdda045[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 20:45:07 2022 +0530
+
+    eks deployments added
+
+[33mcommit 727ee30e5847bdadfd3a47f93e10bf82e11d2a51[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 20:42:54 2022 +0530
+
+    eks connection stage added
+
+[33mcommit 61b808d9b977a8c811ab8880b8fdbe02a684f529[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 20:41:51 2022 +0530
+
+    eks connection stage added
+
+[33mcommit 85de38badba6f5e2e17d80ebb1cfa173c01a242b[m
+Merge: 24d386c a1e2074
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 14:59:47 2022 +0530
+
+    Merge branch 'main' of https://github.com/vikash-kumar01/demo-counter-app
+
+[33mcommit 24d386cf9a6661e35fb14f2bae24914df97f913d[m
+Author: vikash <vikash@gmail.com>
+Date:   Sun Oct 16 14:59:24 2022 +0530
+
+    git checkout
+
+[33mcommit a1e2074d6b4139840ad6ce63a48e9b42380ce5ff[m
+Author: Vikash Kumar <35370115+vikash-kumar01@users.noreply.github.com>
+Date:   Sat Oct 15 13:07:03 2022 +0530
+
+    Delete Dockerfile
+
+[33mcommit 07858868a5f1c3c4b3eaef88ae05429392c7be53[m
+Author: Vikash Kumar <35370115+vikash-kumar01@users.noreply.github.com>
+Date:   Sat Oct 15 13:06:51 2022 +0530
+
+    Delete Jenkinsfile
+
+[33mcommit 068981633b9ba3b3aa4514731244727d3b6d0bda[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 10:17:26 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit ea93f30d868b547adaec241d7ce0e101759b314c[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 10:04:50 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit 81578dfe6b0ee7fe66265c8cf2f2a9a611e5fd0c[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 10:01:32 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit 66a2a382f26d63c90ef3d132c0aff02d70d62a24[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 09:48:03 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit c2125a744622e43d1a4719696e887cf6aeb9d1e9[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 09:42:01 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit 3dbf5ec6896eb5d72c09a12936704f4bc5fdb5ca[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 15 09:34:15 2022 +0530
+
+    jenkinsfile updated
+
+[33mcommit 8650e17e6976ad97b29e9f0dc79f969176be61c7[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 15:45:20 2022 +0530
+
+    final updated code
+
+[33mcommit b6ad05501b09637b296aa78b771b6f31843c550e[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 15:23:53 2022 +0530
+
+    dockerhub image push
+
+[33mcommit 3473276c3267e029f0e94e7223544f584909915c[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 15:14:36 2022 +0530
+
+    dockerhub image push
+
+[33mcommit 09c10c569f70410e4868ec7325e5141b87e2a0d8[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 15:03:34 2022 +0530
+
+    image updated
+
+[33mcommit edc3fbaa4ea04213c9799be69c8b09298f59a21e[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 15:00:11 2022 +0530
+
+    image updated
+
+[33mcommit 42d15dc72088c7b39e84694ff26f6a3b13271286[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 14:59:52 2022 +0530
+
+    image updated
+
+[33mcommit 446a22f3a75a255447c335157b94adbc40344197[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 14:46:38 2022 +0530
+
+    snapshot updated
+
+[33mcommit ca78a9a49c1174b2acafd9d126f48a9ee9db6c1c[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 14:44:28 2022 +0530
+
+    snapshot updated
+
+[33mcommit e290c731517cf1e0140740dcd0115e0c2536d64e[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 14:37:14 2022 +0530
+
+    new version updated
+
+[33mcommit fe461377adc7db1c860173d17a4ba66cc523ce11[m
+Author: vikash <vikash@gmail.com>
+Date:   Sat Oct 8 14:30:21 2022 +0530
+
+    nexus stage updated
+
+[33mcommit e037c5f6655030b810c127d2dc4c03e15b69f5e7[m
+Author: vikas
